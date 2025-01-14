@@ -1,0 +1,5 @@
+Hello, this is a text file inside the CSS file.
+It doesn't have anything important, just so you know, I am writing this now using the "nano" command in git bash, just to flex with my totally big brain and definitely didn't google it.
+anyway, this file is useless.
+Bye Bye. 
+
